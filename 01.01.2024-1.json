@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Frost",
+    "age": 59,
+    "address": {
+        "street": "Kathryn Glen",
+        "city": "North Kellyfort",
+        "state": "Delaware",
+        "zip": "07124"
+    },
+    "contact": {
+        "phone": "6289197565",
+        "servicePhone": "800841164"
+    },
+    "birthday": "1966-14-04",
+    "ip": "146.207.149.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow then peace raise without. Stage poor statement people production understand magazine. Avoid magazine argue that.",
+        "bio": "Leg available tend modern around under. Everything man window throughout understand dog. Experience threat idea into husband investment."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
