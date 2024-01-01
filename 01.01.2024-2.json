@@ -1,0 +1,25 @@
+{
+    "name": "Gilbert Keller",
+    "age": 35,
+    "address": {
+        "street": "Nathaniel Run",
+        "city": "East Emilytown",
+        "state": "Wisconsin",
+        "zip": "08002"
+    },
+    "contact": {
+        "phone": "+1-449-683-1959",
+        "servicePhone": "800414384"
+    },
+    "birthday": "1990-08-02",
+    "ip": "52.4.217.169",
+    "foo": "bar",
+    "profile": {
+        "about": "North house skill.\nTrip south senior citizen. Husband affect almost its human. Believe daughter science can enjoy.",
+        "bio": "Me end like realize how. You her dinner tough either cover thank.\nSouth ago play material candidate stock. Tonight middle race heavy last. Make scene security."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
