@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Booth",
+    "age": 59,
+    "address": {
+        "street": "Wallace Rue",
+        "city": "Andersonmouth",
+        "state": "West Virginia",
+        "zip": "59678"
+    },
+    "contact": {
+        "phone": "558.605.9927x0695",
+        "servicePhone": "800320128"
+    },
+    "birthday": "1966-20-08",
+    "ip": "136.239.17.61",
+    "foo": "bar",
+    "profile": {
+        "about": "School early someone film can.\nWorld manager rest food health. Energy leave cultural marriage girl.",
+        "bio": "Policy serious require ago economy. Yourself site show friend pull rest manage leave. Important order how beyond into.\nDirector season until fill."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
