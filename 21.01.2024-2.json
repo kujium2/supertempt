@@ -1,0 +1,25 @@
+{
+    "name": "Austin Farmer",
+    "age": 90,
+    "address": {
+        "street": "Ford Cape",
+        "city": "Ricemouth",
+        "state": "Nebraska",
+        "zip": "15693"
+    },
+    "contact": {
+        "phone": "(632)863-7773x2705",
+        "servicePhone": "800997282"
+    },
+    "birthday": "1935-30-03",
+    "ip": "42.130.142.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote town member various talk carry. Its hold world on probably. Exist by man watch.\nLay different peace. Already level must really group most to.\nCut doctor avoid fund decide go parent.",
+        "bio": "Plan idea spring available reach stay meet. Town speak a between establish maintain expert. Law arrive because."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
