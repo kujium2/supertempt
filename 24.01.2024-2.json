@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Smith",
+    "age": 5,
+    "address": {
+        "street": "Drew Coves",
+        "city": "New Emma",
+        "state": "New Mexico",
+        "zip": "13723"
+    },
+    "contact": {
+        "phone": "001-514-496-2223x9007",
+        "servicePhone": "800322675"
+    },
+    "birthday": "2020-27-04",
+    "ip": "106.191.44.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Difficult science base shoulder machine those manage fine. Occur stand place. Whatever could professor onto line.\nEnjoy fall expect risk writer every. Must long put agree. Painting rate western.",
+        "bio": "Everyone author why whom. Address cost government. Office more manage both."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
