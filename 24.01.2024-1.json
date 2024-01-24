@@ -1,0 +1,25 @@
+{
+    "name": "Michael Graham",
+    "age": 67,
+    "address": {
+        "street": "Santos Overpass",
+        "city": "Carolstad",
+        "state": "Utah",
+        "zip": "04108"
+    },
+    "contact": {
+        "phone": "8712096053",
+        "servicePhone": "800309390"
+    },
+    "birthday": "1958-28-04",
+    "ip": "205.83.33.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Should night best city strategy question box. Report fact anyone suddenly bag. Process measure and possible economy military meeting.\nLay get late choose sit himself. Often world enjoy lot special.",
+        "bio": "Congress exist than. Above bar traditional into big spend.\nReach activity church hand.\nSit produce himself nice service need most. Respond his imagine bed trip."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
