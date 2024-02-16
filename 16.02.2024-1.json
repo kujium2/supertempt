@@ -1,0 +1,25 @@
+{
+    "name": "Christina Burton",
+    "age": 59,
+    "address": {
+        "street": "Richmond Manors",
+        "city": "East Cassandraberg",
+        "state": "Nevada",
+        "zip": "02437"
+    },
+    "contact": {
+        "phone": "493.563.6321",
+        "servicePhone": "800688059"
+    },
+    "birthday": "1966-28-09",
+    "ip": "174.11.167.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple relate much local region her. Environment clearly very knowledge his area possible.\nMedical record another yes order treatment area. Artist bag oil for. Soon some beyond me large.",
+        "bio": "Sound require decade well thank forward service wide.\nBillion weight laugh training possible. Democrat picture mission much.\nDesign security mean factor population."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
