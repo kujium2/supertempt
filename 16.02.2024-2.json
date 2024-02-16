@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Evans",
+    "age": 47,
+    "address": {
+        "street": "Evans Estates",
+        "city": "Leonbury",
+        "state": "Nevada",
+        "zip": "52277"
+    },
+    "contact": {
+        "phone": "997.498.0671",
+        "servicePhone": "800872055"
+    },
+    "birthday": "1978-12-09",
+    "ip": "188.59.48.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Only hold ball artist pull appear expect. Media popular improve air. Make tell move section adult.",
+        "bio": "Realize past administration price skill prepare wrong claim. Consider baby agent compare piece thus call just. My ago general defense."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
