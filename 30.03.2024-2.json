@@ -1,0 +1,25 @@
+{
+    "name": "Amy Moses",
+    "age": 68,
+    "address": {
+        "street": "Nguyen Light",
+        "city": "Bettyville",
+        "state": "Washington",
+        "zip": "87457"
+    },
+    "contact": {
+        "phone": "001-356-759-1834x031",
+        "servicePhone": "800765009"
+    },
+    "birthday": "1957-15-07",
+    "ip": "213.160.62.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Most save power affect other necessary candidate. Seat everyone part hot. Answer become kitchen charge theory.",
+        "bio": "Television force billion real his. Customer candidate whose church check.\nWait explain while mention. Country fight six end ago. Guess avoid whom difficult think realize."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
