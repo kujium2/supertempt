@@ -1,0 +1,25 @@
+{
+    "name": "Laura Suarez",
+    "age": 84,
+    "address": {
+        "street": "Rodriguez Shores",
+        "city": "Wallermouth",
+        "state": "Delaware",
+        "zip": "61795"
+    },
+    "contact": {
+        "phone": "+1-570-321-5662x4869",
+        "servicePhone": "800793393"
+    },
+    "birthday": "1941-11-03",
+    "ip": "161.160.209.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Field paper expert address. On their middle drive son.\nNow decide seek decide. Democrat not quite trip.\nPlan attack learn number break everybody. Ask century lose expert. Safe raise any fish.",
+        "bio": "Position bit statement thousand take play contain yet. Area company evening. Add policy meet they social that manage. Kitchen not ok increase.\nWith once name significant."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
