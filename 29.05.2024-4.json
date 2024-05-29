@@ -1,0 +1,25 @@
+{
+    "name": "Randall Smith",
+    "age": 93,
+    "address": {
+        "street": "Laurie Points",
+        "city": "North Linda",
+        "state": "Louisiana",
+        "zip": "23146"
+    },
+    "contact": {
+        "phone": "001-557-830-1039",
+        "servicePhone": "800965932"
+    },
+    "birthday": "1932-07-07",
+    "ip": "54.215.243.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Form hold art culture five sort miss who. Travel growth I modern after moment take firm. Wife heart edge anyone.\nJoin care camera interesting assume. Among necessary plan.",
+        "bio": "Soon place attack far bit. Free gas believe source away station response. Significant protect physical affect successful particularly."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
