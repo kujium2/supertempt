@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Colon",
+    "age": 80,
+    "address": {
+        "street": "Alexander Flats",
+        "city": "Ronaldshire",
+        "state": "Michigan",
+        "zip": "09762"
+    },
+    "contact": {
+        "phone": "001-741-608-5161x58889",
+        "servicePhone": "800601126"
+    },
+    "birthday": "1945-04-06",
+    "ip": "75.70.66.149",
+    "foo": "bar",
+    "profile": {
+        "about": "International five short begin the indeed. Civil think future one some may.\nThis process share finally. Send least candidate quality police image land process. Price both enter will cost.",
+        "bio": "Run program example those threat. Increase always air."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
