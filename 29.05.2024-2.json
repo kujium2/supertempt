@@ -1,0 +1,25 @@
+{
+    "name": "Richard Erickson",
+    "age": 41,
+    "address": {
+        "street": "Heather Run",
+        "city": "South Timothy",
+        "state": "Arizona",
+        "zip": "42189"
+    },
+    "contact": {
+        "phone": "425.974.3418",
+        "servicePhone": "800807511"
+    },
+    "birthday": "1984-03-02",
+    "ip": "181.88.106.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Especially none back brother vote situation sell break. Wife good worry behavior onto them over. Federal at detail here later.",
+        "bio": "Different design memory add door him. Increase after mission wait research nearly. Southern information plant sure evidence without."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
