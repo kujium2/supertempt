@@ -1,0 +1,25 @@
+{
+    "name": "Melody Mcdaniel",
+    "age": 39,
+    "address": {
+        "street": "Jessica Plaza",
+        "city": "Lucashaven",
+        "state": "Minnesota",
+        "zip": "13582"
+    },
+    "contact": {
+        "phone": "+1-240-436-3553x84038",
+        "servicePhone": "800509098"
+    },
+    "birthday": "1986-18-01",
+    "ip": "125.158.205.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise machine participant. Production city national director effort bring. Quality push big join hot again world.",
+        "bio": "Health phone four condition statement skill thought. Down if according difficult. Score talk push official.\nWhite remember play. Case always decision bill begin. Everybody offer although speak."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
