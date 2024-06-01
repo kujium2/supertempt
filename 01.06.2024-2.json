@@ -1,0 +1,25 @@
+{
+    "name": "Eric Brewer",
+    "age": 12,
+    "address": {
+        "street": "Thompson Flat",
+        "city": "Vargasland",
+        "state": "Illinois",
+        "zip": "84252"
+    },
+    "contact": {
+        "phone": "001-987-703-0281",
+        "servicePhone": "800527659"
+    },
+    "birthday": "2013-27-01",
+    "ip": "146.165.126.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface friend read true catch their serve. News issue whether various town green agent human. Their them find believe doctor indicate special.",
+        "bio": "Figure number nation forward. Spend note memory.\nSister would a pull even enjoy organization pass. Clear federal join me vote movement already."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
