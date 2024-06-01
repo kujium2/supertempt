@@ -1,0 +1,25 @@
+{
+    "name": "Adam Johnson",
+    "age": 58,
+    "address": {
+        "street": "Farmer Well",
+        "city": "Lake Jason",
+        "state": "Mississippi",
+        "zip": "65374"
+    },
+    "contact": {
+        "phone": "001-718-298-4357x39326",
+        "servicePhone": "800602131"
+    },
+    "birthday": "1967-02-08",
+    "ip": "141.95.199.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple machine after score environment. Certain employee clearly century adult. Person worry fill despite cultural not.\nHeavy ok effort these late reality class. Home third likely class board.",
+        "bio": "Ten lot police. Lead next nation according.\nWater federal idea store relationship present. Customer machine my senior.\nCare entire best. Teach low draw like nation article."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
