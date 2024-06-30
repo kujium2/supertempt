@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Branch",
+    "age": 99,
+    "address": {
+        "street": "Torres Passage",
+        "city": "South Danielshire",
+        "state": "Mississippi",
+        "zip": "16314"
+    },
+    "contact": {
+        "phone": "+1-527-478-1929x1994",
+        "servicePhone": "800215170"
+    },
+    "birthday": "1926-15-05",
+    "ip": "173.151.169.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy speak international some. Within yard risk him. That huge bag key hit investment. Back cold establish window support.",
+        "bio": "Realize among report account want.\nMouth most support town fight finish happy north. Turn idea add for. Power rule like human all bank."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
