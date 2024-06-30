@@ -1,0 +1,25 @@
+{
+    "name": "Gary Copeland",
+    "age": 92,
+    "address": {
+        "street": "Nunez Mews",
+        "city": "West Jessicahaven",
+        "state": "Michigan",
+        "zip": "99315"
+    },
+    "contact": {
+        "phone": "001-582-309-5579x1835",
+        "servicePhone": "800858740"
+    },
+    "birthday": "1933-03-02",
+    "ip": "22.215.210.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep world large morning party remember Mr deep. Building Democrat expert wait friend.",
+        "bio": "Answer contain drug. Appear along forward. Full best anyone arrive person. Bag kid house she cultural traditional plant along.\nSend worker avoid really agency us market. Remain toward leg serious."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
