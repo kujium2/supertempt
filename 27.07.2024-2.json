@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Roberts DDS",
+    "age": 45,
+    "address": {
+        "street": "Timothy Key",
+        "city": "Timothyhaven",
+        "state": "Arizona",
+        "zip": "93573"
+    },
+    "contact": {
+        "phone": "+1-248-792-4974x6201",
+        "servicePhone": "800574654"
+    },
+    "birthday": "1980-06-12",
+    "ip": "114.236.21.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Yeah mission foot notice white. Case paper of girl without carry.\nSpecific program player assume idea effort.",
+        "bio": "The year whether. According level station maintain. Social rock budget participant.\nAbove next develop investment own finally assume hold. Kind national pull machine along American."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
