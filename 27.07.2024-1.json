@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Lewis",
+    "age": 98,
+    "address": {
+        "street": "Sarah Trail",
+        "city": "Brianhaven",
+        "state": "Hawaii",
+        "zip": "03244"
+    },
+    "contact": {
+        "phone": "470.668.8459x994",
+        "servicePhone": "800486557"
+    },
+    "birthday": "1927-17-04",
+    "ip": "24.57.199.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy risk certain they else degree. Field newspaper style stage it line middle. Particularly either last rest water moment Congress.",
+        "bio": "Baby team forward hope. Better glass meeting training through. Loss class than offer cold early wear.\nWant young police. Save standard of anyone up suddenly language. Over debate girl brother."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
