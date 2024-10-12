@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Ayala",
+    "age": 103,
+    "address": {
+        "street": "Phelps Rue",
+        "city": "Lake Allison",
+        "state": "Alabama",
+        "zip": "97177"
+    },
+    "contact": {
+        "phone": "259-792-2939",
+        "servicePhone": "800554187"
+    },
+    "birthday": "1922-02-04",
+    "ip": "7.175.211.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Later exist she admit sport. Car approach along.\nCreate game history nor successful ever soldier. Travel second recognize likely forget save might let.\nEach develop total.",
+        "bio": "Gun focus answer around girl field. Style blood project. Scene not card shoulder grow."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
