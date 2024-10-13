@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Hudson",
+    "age": 79,
+    "address": {
+        "street": "Gary Valley",
+        "city": "North Jameshaven",
+        "state": "Texas",
+        "zip": "68176"
+    },
+    "contact": {
+        "phone": "001-556-931-2774",
+        "servicePhone": "800605973"
+    },
+    "birthday": "1946-04-02",
+    "ip": "125.179.65.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot attention direction natural guess up rich brother.\nCell sister who. Current expect how accept.",
+        "bio": "Indeed evidence baby stage choice management. Low research paper foreign ten dark force. Fast deal various."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
