@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Pierce",
+    "age": 33,
+    "address": {
+        "street": "Jackson Crossing",
+        "city": "Jayville",
+        "state": "Montana",
+        "zip": "21344"
+    },
+    "contact": {
+        "phone": "001-407-829-8769",
+        "servicePhone": "800808887"
+    },
+    "birthday": "1992-13-04",
+    "ip": "132.176.38.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge movie return find health performance position. Far born even give mention me effort. Shake Mrs ten however action. Forward Congress as economic inside.",
+        "bio": "System skill economy force century professor.\nCell wear best today from operation top. Thing after I present common. Value star suffer live talk."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
