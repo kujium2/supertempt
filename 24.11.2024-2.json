@@ -1,0 +1,25 @@
+{
+    "name": "John Reed",
+    "age": 70,
+    "address": {
+        "street": "Ellison Keys",
+        "city": "Davisland",
+        "state": "Nevada",
+        "zip": "99478"
+    },
+    "contact": {
+        "phone": "(983)845-0547",
+        "servicePhone": "800088064"
+    },
+    "birthday": "1955-30-06",
+    "ip": "43.143.188.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Use another individual necessary herself old. About around industry bar form head.\nDoctor carry budget likely. Job similar realize blue conference quality.",
+        "bio": "Foreign radio notice art war. Nothing lay church list. Indicate radio old firm cost seek indeed.\nRed win small necessary scene. Seem rise act bank. Past training open major."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
